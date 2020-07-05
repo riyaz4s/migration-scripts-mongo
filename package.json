@@ -1,0 +1,17 @@
+{
+  "name": "migrate",
+  "version": "1.0.0",
+  "description": "",
+  "main": "migrate.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "camelcase": "^6.0.0",
+    "mongoose": "^5.9.21",
+    "mongoose-geojson-schema": "^2.1.5",
+    "yargs": "^15.4.0"
+  }
+}
