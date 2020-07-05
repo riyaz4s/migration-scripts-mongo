@@ -84,6 +84,7 @@ const userTasks = {
     comments: {type: String},
     photoId: {type: String},
     rewards: {type: Number},
+    userId: {type: Number, required: true},
     formData: {type: Object},
 };
 
